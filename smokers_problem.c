@@ -1,5 +1,5 @@
 #include <stdbool.h>
-#include "semaphore_lib_without_busywaiting.h" 
+#include "semaphore_lib_through_while_loop.h" 
 
 #define NO_OF_SMOKERS 3
 
